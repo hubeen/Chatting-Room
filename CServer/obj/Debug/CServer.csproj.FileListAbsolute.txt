@@ -1,0 +1,9 @@
+E:\Programming\C# Language\Project\Chatting Room\CServer\bin\Debug\CServer.exe.config
+E:\Programming\C# Language\Project\Chatting Room\CServer\bin\Debug\CServer.exe
+E:\Programming\C# Language\Project\Chatting Room\CServer\bin\Debug\CServer.pdb
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.csprojResolveAssemblyReference.cache
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.Properties.Resources.resources
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.csproj.GenerateResource.Cache
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.exe
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.pdb
+E:\Programming\C# Language\Project\Chatting Room\CServer\obj\Debug\CServer.FrmMainS.resources

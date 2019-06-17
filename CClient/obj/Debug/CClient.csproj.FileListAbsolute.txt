@@ -1,0 +1,9 @@
+E:\Programming\C# Language\Project\Chatting Room\CClient\bin\Debug\CClient.exe.config
+E:\Programming\C# Language\Project\Chatting Room\CClient\bin\Debug\CClient.exe
+E:\Programming\C# Language\Project\Chatting Room\CClient\bin\Debug\CClient.pdb
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.FrmChatUI.resources
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.FrmJoin.resources
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.Properties.Resources.resources
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.csproj.GenerateResource.Cache
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.exe
+E:\Programming\C# Language\Project\Chatting Room\CClient\obj\Debug\CClient.pdb
